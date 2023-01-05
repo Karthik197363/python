@@ -1,5 +1,6 @@
-# python
-Machine learning project...which uses "random forest regressor" imported from sklearn module.
+# python 1
+               
+Machine learning project,which uses "random forest regressor" imported from sklearn module.
 This project was created in GOOGLE CO-LAB so the code is available only in pdf format here.
 The gold price data set is downloaded from "Google".
 While adding the file location in the "pandas" dataframe,make sure that the dataset is imported in the Google colab.
